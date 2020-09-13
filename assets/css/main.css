@@ -3878,6 +3878,7 @@ input, select, textarea {
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
+		background-color: (0, 0, 0, 0.6);
 	}
 
 		#intro p {
